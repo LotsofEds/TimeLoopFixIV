@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeFix.net", "TimeFix.net\TimeFix.net.csproj", "{951711B5-49C4-402F-9B26-FDB44233FADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{951711B5-49C4-402F-9B26-FDB44233FADD}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{951711B5-49C4-402F-9B26-FDB44233FADD}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{951711B5-49C4-402F-9B26-FDB44233FADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951711B5-49C4-402F-9B26-FDB44233FADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79321E14-EDF1-45AE-8F5B-43DF25D5D188}
+	EndGlobalSection
+EndGlobal
